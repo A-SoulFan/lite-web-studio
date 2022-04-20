@@ -1,6 +1,6 @@
 # Lite Studio
 
-以 csv 文件作为数据库的纯前端音乐播放器，使用 vite 进行构建
+以 csv 文件作为数据库的纯前端音乐播放器，使用 vite 进行构建。
 
 # CHANGE LOG
 
